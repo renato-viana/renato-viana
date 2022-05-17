@@ -5,10 +5,11 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/V64mW5BEVA)
 
 <a href="https://github.com/renato-viana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renato-viana&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renato-viana&show_icons=true&theme=tokyonight" />
 </a>
+
 <a href="https://github.com/renato-viana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-viana&layout=compact&langs_count=16&theme=radical)](https://github.com/renato-viana/github-readme-stats" />
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-viana&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/renato-viana/github-readme-stats" />
 </a>
 
 ## Tecnologias que uso no meu dia
