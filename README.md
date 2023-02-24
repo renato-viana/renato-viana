@@ -1,5 +1,7 @@
 ## Hi there! I'm Renato Borges Viana 👋
 
+- I'm a back-end developer, specialized in REST API's w/ Java and Kotlin
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renato-borges-viana)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatoviana30@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/V64mW5BEVA)
