@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-- I'm a back-end developer, specialized in REST API's w/ Java and Kotlin
+- I'm an android developer, specialized in mobile app development with Kotlin and Java
 
 <a href="https://github.com/renato-viana">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=renato-viana&show_icons=true&theme=tokyonight" />
