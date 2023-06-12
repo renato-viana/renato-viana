@@ -1,6 +1,8 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-- I'm a Full Stack Java developer, specialized in web development with Spring Boot and Angular
+##### I'm a Full Stack Developer, specialized in web development with Java and TypeScript.
+- Development of microservices with Spring Boot and Node.js.
+- Angular front-end development.
 
 <a href="https://github.com/renato-viana">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=renato-viana&show_icons=true&theme=tokyonight" />
