@@ -1,14 +1,16 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-I'm an aspiring Back-End Developer with a solid foundation in Java, Kotlin, and Spring Boot. My focus is on developing high-performance microservices solutions that drive seamless business operations.
+I'm an aspiring Full Stack Developer with a solid foundation in Java, Angular, and Spring Boot. My focus is on developing high-performance microservices solutions that drive seamless business operations.
 
-<a href="https://github.com/renato-viana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renato-viana&show_icons=true&theme=tokyonight" />
-</a>
+<div style="display: flex; justify-content: space-between; max-width: 800px; margin: 0 auto;">
+  <a href="https://github.com/renato-viana" style="text-decoration: none; flex-basis: 50%; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=renato-viana&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); margin: 10px; transition: transform 0.2s ease;">
+  </a>
 
-<a href="https://github.com/renato-viana">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-viana&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/renato-viana/github-readme-stats" />
-</a>
+  <a href="https://github.com/renato-viana" style="text-decoration: none; flex-basis: 50%; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-viana&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); margin: 10px; transition: transform 0.2s ease;">
+  </a>
+</div>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -17,6 +19,8 @@ I'm an aspiring Back-End Developer with a solid foundation in Java, Kotlin, and 
 [![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs)
 [![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
