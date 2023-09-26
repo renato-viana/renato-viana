@@ -1,6 +1,16 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-I'm a Full Stack Developer specialized in Java and Angular, with expertise in scalable microservices and RESTful APIs. Committed to delivering high-quality projects, utilizing agile methodologies and constantly seeking innovation.
+💼 Bringing the versatility of the Java and Golang ecosystems to your project!
+
+👨‍💻 Java and Golang Backend Developer with experience in Spring Framework and REST API development.
+
+💻 Specialized in the Spring ecosystem (Spring Boot, Spring Security, Spring Data, Spring Batch, Spring MVC) for building scalable and robust applications.
+
+🧪 Committed to creating innovative and scalable solutions with a focus on reliable testing and TDD methodology.
+
+🔍 Always seeking stimulating challenges and dedicated to continuous growth within the Java and Golang ecosystems.
+
+🚀 Let's connect!
 
 <div style="display: flex; justify-content: space-between; max-width: 800px; margin: 0 auto;">
   <a href="https://github.com/renato-viana" style="text-decoration: none; flex-basis: 50%; display: flex; justify-content: center;">
