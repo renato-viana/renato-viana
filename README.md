@@ -1,14 +1,14 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-💼 Bringing the versatility of the Java and Golang ecosystems to your project!
+💼 Bringing the versatility of the Java ecosystems to your project!
 
-👨‍💻 Java and Golang Backend Developer with experience in Spring Framework and REST API development.
+👨‍💻 Java Developer with experience in Spring Framework and REST API development.
 
 💻 Specialized in the Spring ecosystem (Spring Boot, Spring Security, Spring Data, Spring Batch, Spring MVC) for building scalable and robust applications.
 
 🧪 Committed to creating innovative and scalable solutions with a focus on reliable testing and TDD methodology.
 
-🔍 Always seeking stimulating challenges and dedicated to continuous growth within the Java and Golang ecosystems.
+🔍 Always seeking stimulating challenges and dedicated to continuous growth within the Java ecosystems.
 
 🚀 Let's connect!
 
