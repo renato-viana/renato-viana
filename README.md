@@ -1,16 +1,16 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-💼 Bringing the versatility of the Java ecosystems to your project!
+💼 Bringing the versatility of the Java and Kotlin ecosystems to your project!
 
-👨‍💻 Java Developer with experience in Spring Framework and REST API development.
+👨‍💻 Back-End Developer specialized in Java and Kotlin, with hands-on experience in microservices architecture, frameworks (Spring and Ktor), cloud (AWS), containerization (Docker and Kubernetes), messaging (Kafka), databases (Oracle and PostgreSQL), unit testing (JUnit and Mockito), and agile methodologies (Scrum and Kanban).
 
-💻 Specialized in the Spring ecosystem (Spring Boot, Spring Security, Spring Data, Spring Batch, Spring MVC) for building scalable and robust applications.
+💻 Specialized in the Spring ecosystem (Boot, Security, Data, MVC, Batch, Cloud) for the development of scalable and robust applications. I contributed to the development and maintenance of robust and scalable web applications, REST APIs, and SOAP integrations.
 
-🧪 Committed to creating innovative and scalable solutions with a focus on reliable testing and TDD methodology.
+🧪 Focused on creating innovative and scalable solutions with an emphasis on reliable testing and TDD methodology.
 
-🔍 Always seeking stimulating challenges and dedicated to continuous growth within the Java ecosystems.
+🔍 My commitment to excellence, efficiency, and innovation drives me to constantly evolve.
 
-🚀 Let's connect!
+🚀 Let’s connect!
 
 <div style="display: flex; justify-content: space-between; max-width: 800px; margin: 0 auto;">
   <a href="https://github.com/renato-viana" style="text-decoration: none; flex-basis: 50%; display: flex; justify-content: center;">
@@ -27,10 +27,6 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/home.html)
 [![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs)
 [![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
@@ -39,8 +35,8 @@
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]()
 [![Junit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)]()
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
 [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
