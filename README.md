@@ -2,7 +2,7 @@
 
 💼 Bringing the versatility of the Java and Python ecosystems to your project!
 
-👨‍💻 Back-End Developer specialized in Java and Python, with hands-on experience in microservices architecture, frameworks (Spring and Django), cloud (AWS), containerization (Docker and Kubernetes), messaging (Kafka), databases (Oracle and PostgreSQL), unit testing (JUnit and Mockito), and agile methodologies (Scrum and Kanban).
+👨‍💻 Backend Developer specialized in Java and Python, with hands-on experience in microservices architecture, frameworks (Spring and Django), cloud (AWS), containerization (Docker and Kubernetes), messaging (Kafka), databases (Oracle and PostgreSQL), unit testing (JUnit and Mockito), and agile methodologies (Scrum and Kanban).
 
 💻 Specialized in the Spring ecosystem (Boot, Security, Data, MVC, Batch, Cloud) for the development of scalable and robust applications. I contributed to the development and maintenance of robust and scalable web applications, REST APIs, and SOAP integrations.
 
