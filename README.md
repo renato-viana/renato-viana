@@ -2,7 +2,7 @@
 
 💼 Bringing the versatility of the Java and Kotlin ecosystems to your project!
 
-👨‍💻 Back-End Developer specialized in Java and Kotlin, with hands-on experience in microservices architecture, frameworks (Spring and Ktor), cloud (AWS), containerization (Docker and Kubernetes), messaging (Kafka), databases (Oracle and PostgreSQL), unit testing (JUnit and Mockito), and agile methodologies (Scrum and Kanban).
+👨‍💻 Back-End Developer specialized in Java and Python, with hands-on experience in microservices architecture, frameworks (Spring and Django), cloud (AWS), containerization (Docker and Kubernetes), messaging (Kafka), databases (Oracle and PostgreSQL), unit testing (JUnit and Mockito), and agile methodologies (Scrum and Kanban).
 
 💻 Specialized in the Spring ecosystem (Boot, Security, Data, MVC, Batch, Cloud) for the development of scalable and robust applications. I contributed to the development and maintenance of robust and scalable web applications, REST APIs, and SOAP integrations.
 
@@ -25,8 +25,9 @@
 ### 🛠 &nbsp;Tech Stack
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/home.html)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 [![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
