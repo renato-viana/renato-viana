@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-💼 Bringing the versatility of the Java and Python ecosystems to your project!
+💼 Bringing the versatility of the Java/Kotlin and Python ecosystems to your project!
 
-👨‍💻 Backend Developer specialized in Java and Python, with hands-on experience in microservices architecture, frameworks (Spring and Django), cloud (AWS), containerization (Docker and Kubernetes), messaging (Kafka), databases (Oracle and PostgreSQL), unit testing (JUnit and Mockito), and agile methodologies (Scrum and Kanban).
+👨‍💻 Backend Developer specialized in Java/Kotlin and Python, with a strong interest in automation and microservices architecture. I have hands-on experience with frameworks (Spring, Django and Flask), cloud (AWS), containerization (Docker and Kubernetes), messaging (Kafka), databases (Oracle and PostgreSQL), unit testing (JUnit and Mockito), and agile methodologies (Scrum and Kanban).
 
 💻 Specialized in the Spring ecosystem (Boot, Security, Data, MVC, Batch, Cloud) for the development of scalable and robust applications. I contributed to the development and maintenance of robust and scalable web applications, REST APIs, and SOAP integrations.
 
