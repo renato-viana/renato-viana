@@ -1,14 +1,12 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-💼 Bringing the versatility of the Java/Kotlin and Python ecosystems to your project!
+💼 Bringing the versatility of the Java, Node.js, Python, and Angular ecosystems to your project!
 
-👨‍💻 Backend Developer specialized in Java/Kotlin and Python, with a strong interest in automation and microservices architecture. I have hands-on experience with frameworks (Spring, Django and Flask), cloud (AWS), containerization (Docker and Kubernetes), messaging (Kafka), databases (Oracle and PostgreSQL), unit testing (JUnit and Mockito), and agile methodologies (Scrum and Kanban).
+👨‍💻 Full Stack Developer specialized in Java and Angular. Has hands-on experience in creating front-end interfaces using Angular and implementing back-end architectures, both monolithic and microservices. Is experienced in a variety of technologies and frameworks, including Java (Spring), and TypeScript (Angular). In addition, has practical experience with the JavaScript platform (Node.js), Python (Django, Flask), and cloud technologies such as AWS. Has experience with Docker, Kubernetes, Kafka, databases (Oracle, PostgreSQL), and unit testing (JUnit, Mockito). Has significantly contributed to the development and maintenance of robust web applications, REST APIs, and SOAP integrations. Is recognized for problem-solving ability, teamwork ethic, and effective communication.
 
-💻 Specialized in the Spring ecosystem (Boot, Security, Data, MVC, Batch, Cloud) for the development of scalable and robust applications. I contributed to the development and maintenance of robust and scalable web applications, REST APIs, and SOAP integrations.
+🧪 Focuses on creating innovative and scalable solutions with an emphasis on reliable testing and TDD methodology.
 
-🧪 Focused on creating innovative and scalable solutions with an emphasis on reliable testing and TDD methodology.
-
-🔍 My commitment to excellence, efficiency, and innovation drives me to constantly evolve.
+🔍 His commitment to excellence, efficiency, and innovation drives him to constantly evolve.
 
 🚀 Let’s connect!
 
