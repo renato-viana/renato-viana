@@ -1,12 +1,8 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-💼 Bringing the versatility of the Java, Node.js, Python, and Angular ecosystems to your project!
+👨‍💻 Programmer Analyst with experience in web development, specializing in Java and Angular. Has proven skills in creating front-end interfaces using Angular, JSF, and jQuery, and in implementing back-end architectures with Java and Python. Proficient in a variety of technologies and frameworks, including Spring, Django, Flask, and Node.js. Competent in cloud technologies, such as AWS, and DevOps tools, such as Docker, Kubernetes, messaging systems (Kafka), databases (Oracle, PostgreSQL) and unit tests (JUnit, Mockito). Contributed significantly to the development and maintenance of robust web applications, including an application that increased the operational efficiency of the company by allowing the validation of new insurance policies.
 
-👨‍💻 Full Stack Developer specialized in Java and Angular. Has hands-on experience in creating front-end interfaces using Angular and implementing back-end architectures, both monolithic and microservices. Is experienced in a variety of technologies and frameworks, including Java (Spring), and TypeScript (Angular). In addition, has practical experience with the JavaScript platform (Node.js), Python (Django, Flask), and cloud technologies such as AWS. Has experience with Docker, Kubernetes, Kafka, databases (Oracle, PostgreSQL), and unit testing (JUnit, Mockito). Has significantly contributed to the development and maintenance of robust web applications, REST APIs, and SOAP integrations. Is recognized for problem-solving ability, teamwork ethic, and effective communication.
-
-🧪 Focuses on creating innovative and scalable solutions with an emphasis on reliable testing and TDD methodology.
-
-🔍 His commitment to excellence, efficiency, and innovation drives him to constantly evolve.
+🔍 Is recognized for problem-solving ability, teamwork ethic, and effective communication.
 
 🚀 Let’s connect!
 
