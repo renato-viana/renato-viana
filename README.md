@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-👨‍💻 Back-end developer specialized in Java and Kotlin, with a proven track record of creating robust web solutions within the AWS ecosystem. My experience encompasses the implementation of complex back-end architectures and significant contribution to the development and maintenance of web applications. One of my most notable projects involved an application that increased the operational efficiency of the company by enabling the validation of new insurance policies.
+👨‍💻 Back-End Specialist in Java and Python, with a focus on automation, web development, and DevOps practices. I have a solid track record in implementing robust and secure back-end architectures, and in creating web solutions in the AWS ecosystem. One of my most notable projects increased the operational efficiency of the company through the validation of insurance policies.
 
 🔍 Is recognized for problem-solving ability, teamwork ethic, and effective communication.
 
