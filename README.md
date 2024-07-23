@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-👨‍💻 Back-End Specialist in Java and Python, with a focus on automation, web development, and DevOps practices. I have a solid track record in implementing robust and secure back-end architectures, and in creating web solutions in the AWS ecosystem. One of my most notable projects increased the operational efficiency of the company through the validation of insurance policies.
+👨‍💻 Backend Developer since 02/2021, proficient in Java with experience in C# and Python. Solid experience in microservices architecture, cloud computing, monolithic and legacy systems, and IT automation using AWS. Advanced skills in DevOps, application deployment and monitoring, API security, and data management. Experienced with frameworks such as Spring Boot, Jakarta EE/Java EE, and ASP.NET Core. Currently focused on enhancing DevOps practices and microservices architecture, implementing scalable and efficient solutions. Active member of the SouJava group as a supporting member.
 
 🔍 Is recognized for problem-solving ability, teamwork ethic, and effective communication.
 
@@ -23,7 +23,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
