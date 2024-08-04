@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm <a href="https://linkedin.com/in/renato-borges-viana"><img src="https://img.shields.io/badge/-Renato%20Borges%20Viana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 
 
-👨‍💻 Full Stack Developer since 02/2021, with proficiency in Java and experience in C#, JavaScript, HTML, and CSS. Solid experience in monolithic and legacy systems, microservices architecture, and cloud computing using AWS. Advanced skills in DevOps, application deployment and monitoring, API security, and data management. Experienced in frameworks such as Spring Boot, Jakarta EE/Java EE, ASP.NET Core, Node.js, and Angular. Currently focused on enhancing DevOps practices and microservices architecture with AWS, implementing scalable and efficient solutions. Active member of the SouJava group as a supporting partner.
+👨‍💻 Full Stack Developer since 02/2021, with proficiency in Java and experience in JavaScript, HTML, and CSS. Solid experience in monolithic and legacy systems, microservices architecture, and cloud computing using AWS. Advanced skills in DevOps, application deployment and monitoring, API security, and data management. Experienced in frameworks such as Spring Boot, Jakarta EE/Java EE, Node.js, and Angular. Currently focused on enhancing DevOps practices and microservices architecture with AWS, implementing scalable and efficient solutions. Active member of the SouJava group as a supporting partner.
 
-🔍 Is recognized for problem-solving ability, teamwork ethic, and effective communication.
+🔍 Business area: insurance (life and pension) and retail, with experience in clients such as Bradesco Seguros and Avon.
 
 🚀 Let’s connect!
 
@@ -23,14 +23,12 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
