@@ -38,7 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=renato-viana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/renato-viana">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-viana&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-viana&theme=tokyonight&layout=compact&langs_count=3&hide=javascript,typescript,html,css,scss" alt="Top Languages" />
   </a>
 </p>
 
