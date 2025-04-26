@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm [Renato Borges Viana](https://linkedin.com/in/renato-borges-viana) 🇧🇷
 
-👨‍💻 Java Back-end Developer with 4 years of experience in developing RESTful APIs and microservices using Java 17, Spring Boot, Kotlin, and Python (FastAPI). Specialized in distributed systems architecture, DevSecOps practices, and modern frameworks like Quarkus. AWS Cloud Practitioner certified, with a proven track record in legacy system modernization and implementing scalable solutions in cloud-native environments. Experience in performance optimization and security for enterprise applications.
+👨‍💻 Java Back-end Developer with 4 years of experience in corporate systems, working on the development of RESTful APIs and monolithic applications using Java 17, Spring Boot, and Kotlin, as well as building interfaces with Angular. Specialized in distributed systems architecture, DevSecOps practices, and modern frameworks such as Quarkus. AWS Cloud Practitioner certified, with a proven track record in legacy system modernization and implementation of scalable solutions in cloud-native environments.
 
 ---
 
@@ -10,8 +10,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -38,7 +38,7 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=renato-viana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/renato-viana">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-viana&theme=tokyonight&layout=compact&langs_count=3&hide=javascript,typescript,html,css,scss" alt="Top Languages" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-viana&theme=tokyonight&layout=compact&langs_count=3&hide=javascript,python,html,css,scss" alt="Top Languages" />
   </a>
 </p>
 
