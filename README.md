@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm [Renato Borges Viana](https://linkedin.com/in/renato-borges-viana) 🇧🇷
 
-👨‍💻 Java Back-end Developer with 4 years of experience in corporate systems, working on the development of RESTful APIs and monolithic applications using Java 17, Spring Boot, and Kotlin, as well as building interfaces with Angular. Specialized in distributed systems architecture, DevSecOps practices, and modern frameworks such as Quarkus. AWS Cloud Practitioner certified, with a proven track record in legacy system modernization and implementation of scalable solutions in cloud-native environments.
+👨‍💻 Back-end Developer with 4 years of experience in Java 17, Kotlin, Spring Boot, and Quarkus. Experienced in projects with classic monolithic, modular, and microservices architectures, developing APIs and scalable systems. Specialist in cloud-native solutions, CI/CD automation, and DevSecOps. Currently deepening knowledge in distributed architecture, DDD, and event-driven design, always focused on high availability and performance.
 
 ---
 
