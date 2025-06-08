@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm [Renato Borges Viana](https://linkedin.com/in/renato-borges-viana) 🇧🇷
 
-👨‍💻 Back-end Developer with 4 years of experience in Java 17, Kotlin, Spring Boot, and Quarkus. Works on projects with monolithic, modular, and microservices architectures, developing RESTful and gRPC APIs and scalable systems. Specialist in cloud-native solutions, CI/CD automation, DevSecOps, and Hexagonal Architecture. Currently deepening knowledge in distributed architecture, Domain-Driven Design (DDD), Clean Architecture, and event-driven architecture, always focusing on high availability, resilience, and performance.
+👨‍💻 Back-end Developer with 4 years of experience in Java 17, Kotlin, Spring Boot, and Quarkus. Works on projects with Monolithic, Modular, and Microservices Architectures, developing RESTful and gRPC APIs and scalable systems. Specialist in Cloud-Native solutions, CI/CD automation, DevSecOps, and Hexagonal Architecture. Currently deepening knowledge in Distributed Architecture, Domain-Driven Design (DDD), Clean Architecture, and Event-Driven Architecture, always focused on high availability, resilience, and performance.
 
 ---
 
