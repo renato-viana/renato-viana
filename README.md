@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm [Renato Borges Viana](https://linkedin.com/in/renato-borges-viana) 🇧🇷
 
-👨‍💻 Software Engineer with 4 and a half years of experience, specializing in Java, Kotlin, Spring Boot, Angular, and microservices in cloud-native environments (AWS). Delivering APIs and scalable systems, contributing in both back-end and front-end when needed. Leading solutions focused on automation, DevSecOps, high availability, and performance, promoting modern and resilient architectures. Working to turn complex challenges into efficient deliveries, adding business value through innovation and organization. Highlighting impacts such as downtime reduction, scalability gains, and contributions to projects for major insurance companies.
+👨‍💻 Software Engineer with 4 and a half years of experience, specializing in Java, Spring Boot, Angular, and microservices in cloud-native environments (AWS). Delivering APIs and scalable systems, contributing in both back-end and front-end when needed. Leading solutions focused on automation, DevSecOps, high availability, and performance, promoting modern and resilient architectures. Working to turn complex challenges into efficient deliveries, adding business value through innovation and organization. Highlighting impacts such as downtime reduction, scalability gains, and contributions to projects for major insurance companies.
 
 ---
 
