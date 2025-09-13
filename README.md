@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm [Renato Borges Viana](https://linkedin.com/in/renato-borges-viana) 🇧🇷
 
-👨‍💻 Software Engineer with 4 and a half years of experience, specializing in Java, Spring Boot, Angular, and microservices in cloud-native environments (AWS). Delivering APIs and scalable systems, contributing in both back-end and front-end when needed. Leading solutions focused on automation, DevSecOps, high availability, and performance, promoting modern and resilient architectures. Working to turn complex challenges into efficient deliveries, adding business value through innovation and organization. Highlighting impacts such as downtime reduction, scalability gains, and contributions to projects for major insurance companies.
+👨‍💻 Software Engineer, full‑stack, with 4.7 years of experience, specialized in Java, Spring Boot, Angular, and microservices in cloud‑native (AWS) environments. I deliver scalable APIs and front‑ends with a focus on automation, DevSecOps, high availability, and performance. Highlights: 90%+ test coverage (Jest + SonarQube); use of Datadog (logs, metrics, and traces) to accelerate diagnosis and incident resolution; operation of micro‑frontends on S3/CloudFront following CDN and CI/CD (GitHub Actions) best practices. Open to backend/full‑stack opportunities with microservices and cloud‑native.
 
 ---
 
@@ -19,7 +19,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-4B3263?style=for-the-badge)
 ![OpenShift](https://img.shields.io/badge/OpenShift-E00B1C?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![IBM Instana](https://img.shields.io/badge/Instana-000000?style=for-the-badge&logo=instana&logoColor=yellow)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge)
