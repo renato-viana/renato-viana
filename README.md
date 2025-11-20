@@ -1,12 +1,12 @@
 ## 👋 Hi there! I'm [Renato Borges Viana](https://linkedin.com/in/renato-borges-viana) 🇧🇷
 
-👨‍💻 Senior Back-end Software Engineer with 4.9 years delivering scalable, reliable solutions in cloud-native environments. Specialized in Java 21, Spring Boot, and DevSecOps practices, I build robust APIs, infrastructure as code via Terraform, and CI/CD pipelines that ensure 90%+ automated test coverage (JUnit, Mockito, SonarQube). I implement full observability with Datadog and CloudWatch: logs, metrics, and distributed traces that reduce incident diagnosis from hours to minutes.
+👨‍💻 Senior Backend Software Engineer | 5 years of experience delivering scalable solutions in cloud-native environments
 
-In recent projects, I architected microservices using hexagonal architecture, AWS Lambda + API Gateway, and ECS Fargate, optimizing performance with Redis for session caching. I deliver Angular micro-frontends hosted on S3/CloudFront following CDN best practices. My approach integrates DevSecOps from the first commit: automated quality gates in GitHub Actions, continuous code smell analysis via SonarQube, and auditable, secure deployments.
+Specialized in Java 21, Spring Boot, and DevSecOps practices, I build robust APIs, high-performance microservices, and infrastructure as code via Terraform. I implement CI/CD pipelines with GitHub Actions that ensure 90%+ automated test coverage (JUnit, Mockito) validated in SonarQube, and full observability with Datadog and CloudWatch: distributed logs, metrics, and traces that reduce MTTR from hours to minutes in production.
 
-💡 Working remotely from Petrópolis/RJ, Brazil, collaborating with distributed teams. Open to senior backend or full-stack opportunities focused on microservices and cloud-native ecosystems.
+Architecture and performance: In recent projects, I migrated legacy systems to AWS Lambda + API Gateway (serverless), orchestrated containerized BFFs on ECS Fargate, and optimized latency with Redis ElastiCache for session caching. I apply hexagonal architecture and microservices patterns to ensure maintainability and horizontal scalability.
 
-📩 Let's connect!
+End-to-end DevSecOps: Automated quality gates from the first commit, continuous code smell analysis, secure deployments with versioned task definitions, and production change management with rollback windows of 4 hours. I complement with full-stack when necessary: Angular 16 micro-frontends hosted on S3/CloudFront with optimized CDN.
 
 ---
 
@@ -15,8 +15,7 @@ In recent projects, I architected microservices using hexagonal architecture, AW
 **Core Backend & Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Frontend**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,7 +32,6 @@ In recent projects, I architected microservices using hexagonal architecture, AW
 **DevSecOps & CI/CD**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Veracode](https://img.shields.io/badge/Veracode-00B0E8?style=for-the-badge&logo=veracode&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 **Observability & Monitoring**  
@@ -65,7 +63,7 @@ In recent projects, I architected microservices using hexagonal architecture, AW
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renato-viana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/renato-viana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-viana&layout=compact&langs_count=6&theme=tokyonight&hide=javascript,html,css,scss" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-viana&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,scss" alt="Top Languages" />
   </a>
 </p>
 
@@ -74,5 +72,3 @@ In recent projects, I architected microservices using hexagonal architecture, AW
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renato-borges-viana)
-
-🚀 **Open to collaborations and exciting backend/full-stack opportunities!**
