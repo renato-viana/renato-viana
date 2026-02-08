@@ -1,12 +1,10 @@
 ## 👋 Hi there! I'm [Renato Borges Viana](https://linkedin.com/in/renato-borges-viana) 🇧🇷
 
-👨‍💻 Senior Backend Software Engineer | 5 years of experience delivering scalable solutions in cloud-native environments
+Senior Back-end Software Engineer with 5+ years delivering APIs and distributed systems in cloud-native environments.
 
-Specialized in Java 21, Spring Boot, and DevSecOps practices, I build robust APIs, high-performance microservices, and infrastructure as code via Terraform. I implement CI/CD pipelines with GitHub Actions that ensure 90%+ automated test coverage (JUnit, Mockito) validated in SonarQube, and full observability with Datadog and CloudWatch: distributed logs, metrics, and traces that reduce MTTR from hours to minutes in production.
+Focused on Java 21, Spring Boot, and AWS, with strong DevSecOps experience: CI/CD (GitHub Actions), quality gates (SonarQube/Veracode), IaC with Terraform, and observability with Datadog/CloudWatch (logs, metrics, and tracing) to reduce MTTR and increase production reliability.
 
-Architecture and performance: In recent projects, I migrated legacy systems to AWS Lambda + API Gateway (serverless), orchestrated containerized BFFs on ECS Fargate, and optimized latency with Redis ElastiCache for session caching. I apply hexagonal architecture and microservices patterns to ensure maintainability and horizontal scalability.
-
-End-to-end DevSecOps: Automated quality gates from the first commit, continuous code smell analysis, secure deployments with versioned task definitions, and production change management with rollback windows of 4 hours. I complement with full-stack when necessary: Angular 16 micro-frontends hosted on S3/CloudFront with optimized CDN.
+In recent projects, I migrated workflows to serverless (AWS Lambda + API Gateway), built BFFs on ECS Fargate/EKS, and used Redis ElastiCache for session caching and latency reduction. I also apply hexagonal architecture and microservices patterns to keep systems maintainable and scale safely.
 
 ---
 
