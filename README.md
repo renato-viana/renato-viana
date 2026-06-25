@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm [Renato Borges Viana](https://linkedin.com/in/renato-borges-viana) 🇧🇷
 
-Senior Backend Engineer with 5+ years of experience building APIs and distributed systems in cloud-native environments. I work with Java, Spring Boot, and AWS, applying DevSecOps, CI/CD, and observability practices to improve performance and accelerate production troubleshooting. I participate in architecture decisions and ensure safe deployments in high-criticality environments. I also use generative AI to speed up development, refactoring, and automation, with a strong focus on maintainability and delivery predictability.
+Senior Backend Software Engineer with 5+ years of experience building APIs and distributed systems in cloud-native environments. I work with Java, Kotlin, Spring Boot, and AWS, applying DevSecOps, CI/CD, and observability practices to improve performance and accelerate production troubleshooting. I participate in architecture decisions and ensure safe deployments in high-criticality environments. I use generative AI to speed up development, refactoring, and automation, with a strong focus on maintainability and delivery predictability.
 
 ---
 
@@ -17,10 +17,10 @@ Senior Backend Engineer with 5+ years of experience building APIs and distribute
 
 **Backend & Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
