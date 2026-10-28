@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm [Renato Borges Viana](https://linkedin.com/in/renato-borges-viana) 🇧🇷
 
-### Senior Software Engineer | Java/Kotlin · Spring Boot · AWS · Angular
+### Senior Software Engineer | Java/Kotlin · Spring Boot · AWS
 
 I'm a Senior Software Engineer with 5+ years of experience developing APIs and distributed systems in cloud-native environments. My full-stack experience spans Java, Kotlin, Spring Boot, AWS, and Angular, with a focus on backend development.
 
